@@ -112,7 +112,7 @@
                             javax.el; version=1.0; resolution:=optional,
                             javax.faces.*; resolution:=optional,
                             javax.interceptor.*; version="1.0",
-                            javax.persistence; resolution:=optional,
+                            jakarta.persistence; resolution:=optional,
                             javax.servlet.*; resolution:=optional,
                             javax.transaction; version="1.1"; resolution:=optional,
                             javax.validation.*; resolution:=optional,

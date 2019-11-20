@@ -21,8 +21,8 @@ import static org.jboss.weld.tests.builtinBeans.ee.Checker.checkEntityManagerFac
 import static org.jboss.weld.tests.builtinBeans.ee.Checker.checkRemoteEjb;
 import static org.jboss.weld.tests.builtinBeans.ee.Checker.checkUserTransaction;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
 import javax.transaction.UserTransaction;
 
 import org.jboss.arquillian.container.test.api.Deployment;

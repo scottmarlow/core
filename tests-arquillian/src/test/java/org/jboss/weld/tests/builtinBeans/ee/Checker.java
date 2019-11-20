@@ -16,8 +16,8 @@
  */
 package org.jboss.weld.tests.builtinBeans.ee;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
 import javax.transaction.SystemException;
 import javax.transaction.UserTransaction;
 

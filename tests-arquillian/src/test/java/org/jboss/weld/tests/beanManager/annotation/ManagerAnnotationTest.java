@@ -28,7 +28,7 @@ import org.junit.runner.RunWith;
 
 import javax.enterprise.inject.spi.BeanManager;
 import javax.inject.Inject;
-import javax.persistence.PersistenceContext;
+import jakarta.persistence.PersistenceContext;
 
 @RunWith(Arquillian.class)
 public class ManagerAnnotationTest {

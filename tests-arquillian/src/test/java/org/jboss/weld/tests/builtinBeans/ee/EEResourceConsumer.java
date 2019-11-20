@@ -20,8 +20,8 @@ import org.junit.Assert;
 
 import javax.enterprise.context.SessionScoped;
 import javax.inject.Inject;
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
 import javax.transaction.UserTransaction;
 import java.io.Serializable;
 

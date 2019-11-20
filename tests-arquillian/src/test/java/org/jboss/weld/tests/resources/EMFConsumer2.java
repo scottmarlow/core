@@ -1,7 +1,7 @@
 package org.jboss.weld.tests.resources;
 
 import javax.inject.Inject;
-import javax.persistence.EntityManagerFactory;
+import jakarta.persistence.EntityManagerFactory;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

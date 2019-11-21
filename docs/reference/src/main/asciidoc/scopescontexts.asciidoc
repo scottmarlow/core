@@ -136,7 +136,7 @@ conversation with which it is associated:
 -----------------------------------------------------------------
 import javax.enterprise.inject.Produces;
 import javax.inject.Inject;
-import javax.persistence.PersistenceContextType.EXTENDED;
+import jakarta.persistence.PersistenceContextType.EXTENDED;
 
 @ConversationScoped @Stateful
 public class OrderBuilder {
